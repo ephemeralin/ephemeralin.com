@@ -145,7 +145,7 @@ type = "application/rss+xml"
 
 [languages.en]
   languageName = ":us:"
-  contentDir = "content/english"
+  # contentDir = "content/english"
 
   [[languages.en.menu.main]]
   name = "About"
@@ -170,7 +170,7 @@ type = "application/rss+xml"
 
 [languages.ru]
   languageName = ":ru:"
-  contentDir = "content/russian"
+  # contentDir = "content/russian"
 
   [languages.ru.params]
   author = "Слава Пилюгин"
