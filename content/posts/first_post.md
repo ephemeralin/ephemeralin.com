@@ -1,6 +1,7 @@
 ---
-title: "First_post"
+title: "First post (title)"
 date: 2021-06-05T20:40:38+03:00
-draft: true
+draft: false
 ---
 
+Test post in English.
