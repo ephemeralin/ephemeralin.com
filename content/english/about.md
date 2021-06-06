@@ -1,8 +1,6 @@
 ---
 title: "About"
 date: "2019-03-10"
-author:
-  name: "ephemeralin"
 ---
 
 Hello, username. Let me introduce myself. My name is Slava Piliugin aka ephemeralin. I am a **Java Software Developer**. I live in Saint-Petersburg, Russia. I am keen on Java, technologies, programming.

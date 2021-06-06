@@ -138,58 +138,61 @@ rel = "alternate"
 type = "application/rss+xml"
 
 ######################## Localization ########################
+[languages]
 
 [languages.en]
-languageName = ":us:"
+  languageName = ":us:"
+  contentDir = "content/english"
 
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
+  [[languages.en.menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+  translationKey = "about"
 
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
+  [[languages.en.menu.main]]
+  name = "Blog"
+  weight = 2
+  url = "posts/"
 
-[[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
+  [[languages.en.menu.main]]
+  name = "Projects"
+  weight = 3
+  url = "projects/"
 
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
+  [[languages.en.menu.main]]
+  name = "Contact me"
+  weight = 5
+  url = "contact/"
 
 [languages.ru]
-languageName = ":ru:"
-title = "ephemeralin"
+  languageName = ":ru:"
+  contentDir = "content/russian"
 
-[languages.ru.params]
-author = "Слава Пилюгин"
-info = "Разработчик на Java"
-description = "Личный сайт Пилюгина Славы"
-keywords = "blog,developer,personal,java,russian,canadian,relocation,cv,software,resume,job,canada,блог,разработчик,девелопер,джава,канада,россия,релокация,эмиграция,резюме,работа,программирование"
-# footerContent = "Coloque algum texto aqui."
+  [languages.ru.params]
+  author = "Слава Пилюгин"
+  info = "Разработчик на Java"
+  description = "Личный сайт Пилюгина Славы"
+  keywords = "blog,developer,personal,java,russian,canadian,relocation,cv,software,resume,job,canada,блог,разработчик,девелопер,джава,канада,россия,релокация,эмиграция,резюме,работа,программирование"
+  # footerContent = "Coloque algum texto aqui."
 
-[[languages.ru.menu.main]]
-name = "Обо мне"
-weight = 1
-url = "about/"
+  [[languages.ru.menu.main]]
+  name = "Обо мне"
+  weight = 1
+  url = "about/"
+  translationKey = "about"
 
-[[languages.ru.menu.main]]
-name = "Блог"
-description = "ывыва"
-weight = 2
-url = "posts/"
+  [[languages.ru.menu.main]]
+  name = "Блог"
+  weight = 2
+  url = "posts/"
 
-[[languages.ru.menu.main]]
-name = "Проекты"
-weight = 3
-url = "projects/"
+  [[languages.ru.menu.main]]
+  name = "Проекты"
+  weight = 3
+  url = "projects/"
 
-[[languages.ru.menu.main]]
-name = "Контакты"
-weight = 5
-url = "contact/"
+  [[languages.ru.menu.main]]
+  name = "Контакты"
+  weight = 5
+  url = "contact/"
