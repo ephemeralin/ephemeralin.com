@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Проекты"
 date: "2019-03-10"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact me"
 date: 2021-06-06T12:28:21+03:00
 draft: false
 ---
