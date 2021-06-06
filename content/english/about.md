@@ -3,13 +3,16 @@ title: "About"
 date: "2019-03-10"
 ---
 
-Hello, username. Let me introduce myself. My name is Slava Piliugin aka ephemeralin. I am a **Java Software Developer**. I live in Saint-Petersburg, Russia. I am keen on Java, technologies, programming.
+Hello! My name is Slava Piliugin aka ephemeralin. Some facts:
 
-I have been working at Openway company as Java Software Engineer (Developer). Also I have been working on several side-projects such as:
+- 👾 Software Developer ✹ Java aficionado
+- ✈️ Asia lover ✹ Backpacker
+- 🤓 Apple fan ✹ Geek ✹ Control freak
+- 👨‍👩‍👧 Love family and cat
+- 📍 Saint-Petersburg, 🇷🇺 🔜 ...
 
-* [360˚](https://github.com/ephemeralin/_360): Web application for collecting, analyzing and comparing news from different sources;
-* [MyStem Simple Wrapper](https://github.com/ephemeralin/mystem-simple-wrapper): wrapper library for [Yandex MyStem](https://tech.yandex.ru/mystem/) binary util.
+I have been working at **Unlimint** (international fin-tech company) as a Senior Java Developer: creating of microservices, managing APIs, dealing with JSONs, all that stuff.
 
-Learn more and contribute on [GitHub](https://github.com/ephemeralin).
+If I have free time, I work on several side-projects. You can find some details [here](/projects). I have a blog about software development, technology, self-efficiency [here](/posts), also [at Telegram (Russian only)](https://t.me/ephemeral_things).
 
-Please, feel free to contact me.
+Please, feel free to [contact me](/contact).
