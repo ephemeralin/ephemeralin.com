@@ -5,4 +5,4 @@ draft: false
 tags: ["java", "security", "best_practice"]
 ---
 
-​​Sorry, translation is not available yet.
+​​Sorry, the translation is not available yet.

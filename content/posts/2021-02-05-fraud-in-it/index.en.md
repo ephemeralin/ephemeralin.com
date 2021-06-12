@@ -5,4 +5,4 @@ draft: false
 tags: ["smekalochka", "russian_business"]
 ---
 
-​​Sorry, translation is not available yet.
+​​Sorry, the translation is not available yet.

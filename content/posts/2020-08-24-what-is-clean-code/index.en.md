@@ -5,4 +5,4 @@ draft: false
 tags: ["code", "best_practice"]
 ---
 
-​​Sorry, translation is not available yet.
+​​Sorry, the translation is not available yet.

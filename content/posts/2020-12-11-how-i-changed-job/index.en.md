@@ -5,4 +5,4 @@ draft: false
 tags: ["me", "job"]
 ---
 
-​​Sorry, translation is not available yet.
+​​​​Sorry, the translation is not available yet.

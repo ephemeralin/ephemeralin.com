@@ -5,4 +5,4 @@ draft: false
 tags: ["java", "oracle_cert"]
 ---
 
-​​Sorry, translation is not available yet.
+​​Sorry, the translation is not available yet.
