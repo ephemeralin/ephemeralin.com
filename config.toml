@@ -143,7 +143,7 @@ type = "application/rss+xml"
 # Utterances comments system
 # https://utteranc.es
 [params.utterances]
-  repo = "ephemeralin/utterances-comments" # https://utteranc.es/#heading-repository
+  repo = "ephemeralin/ephemeralin.com" # https://utteranc.es/#heading-repository
   issueTerm = "pathname" # https://utteranc.es/#heading-mapping
   label = "" # https://utteranc.es/#heading-issue-label
   theme = "photon-dark" # https://utteranc.es/#heading-theme
