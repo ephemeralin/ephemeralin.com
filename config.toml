@@ -1,4 +1,4 @@
-baseURL = "http://ephemeralin.com"
+baseURL = "https://ephemeralin.com"
 title = "ephemeralin"
 theme = "hugo-coder"
 languageCode = "en"
