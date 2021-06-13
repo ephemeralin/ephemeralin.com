@@ -1,5 +1,5 @@
 ---
-title: "​​Сертификация Oracle для Java-разработчиков"
+title: "​​☕️ Сертификация Oracle для Java-разработчиков"
 date: 2020-07-05T12:54:13+03:00
 draft: false
 tags: ["java", "oracle_cert"]

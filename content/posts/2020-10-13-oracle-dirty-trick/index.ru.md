@@ -1,5 +1,5 @@
 ---
-title: "Oracle подложила свинью!"
+title: "🐖 Oracle подложила свинью!"
 date: 2020-10-13T12:54:13+03:00
 draft: false
 tags: ["java", "oracle_cert"]

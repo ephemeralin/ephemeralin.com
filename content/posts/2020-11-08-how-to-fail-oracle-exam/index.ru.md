@@ -1,5 +1,5 @@
 ---
-title: "Как гарантированно завалить экзамен Oracle Certification"
+title: "🧐 Как гарантированно завалить экзамен Oracle Certification"
 date: 2020-11-08T12:54:13+03:00
 draft: false
 tags: ["java", "oracle_cert"]
